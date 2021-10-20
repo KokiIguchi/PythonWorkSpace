@@ -7,6 +7,9 @@ while idx >= -len(str1):
     print(str1[idx])
     idx -=1
 
+#memo
+#2**2 = 4
+#2**3 = 8
 
 #memo
 # i =len(str1)
