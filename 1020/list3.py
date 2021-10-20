@@ -4,8 +4,8 @@ c =['x','y','z']
 
 print(a)
 
-d=
-d[]=
+d=a
+d[1:2]=b
 print(d)
-d[]=
+d[3:5]=c
 print(d)
