@@ -1,4 +1,3 @@
-from numpy import tile
 import pandas as pd
 df = pd.read_csv("files/test.csv",index_col=0, encoding='utf-8')
 
