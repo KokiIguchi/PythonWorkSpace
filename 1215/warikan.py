@@ -28,7 +28,7 @@ num_people = input_int('参加者人数')
 output_payment(money,pay_codinator,num_people)
 
 #____________________________________
-#↓素体はこれ
+#↓素体はこれ(関数つかえてない{特に0や空白を入力された場合を含んでない})
 
 # tomoney = int(input('支払合計金額を入力してください：'))
 # people = int(input('参加者人数を入力してください：'))
